@@ -1,4 +1,4 @@
-package Practice;
+package Dailytask Activities;
 import java.util.*;
 public class Demo {
 	String name;
