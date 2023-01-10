@@ -29,9 +29,10 @@ public void storeUser(BranchBank obj1){
 }
 
 public void displayUser(){
-UserInfo details1=details[n];
+for(UserInfo details1:details){
     System.out.println("user name:"+details1.userName);
     System.out.println("enter loan:"+details1.loanAmount);
+}
 
 }
 
