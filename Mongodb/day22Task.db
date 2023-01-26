@@ -1,0 +1,2 @@
+
+ db.demo.insertOne({name:'Ram',address:[{streat:'nagwa',city:'Birgunj',pin:44300},{streat:'ms palya',city:'bangalore',pin:950068}],company:[{companyName:'Axis11',companyAddresss:'ban'}],bank:[{bankname:'Axis',bankacc:987654321,balance:5500},{bankname:'sbi',bankacc:123456789,balance:6000}]})
